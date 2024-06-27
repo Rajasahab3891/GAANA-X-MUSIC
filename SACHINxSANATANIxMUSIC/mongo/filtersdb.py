@@ -1,4 +1,4 @@
-from SACHINxSANATANIxMUSIC.utils.mongo import db
+from Ganaxmusic.utils.mongo import db
 
 filters = db.filters["filters"] 
 
