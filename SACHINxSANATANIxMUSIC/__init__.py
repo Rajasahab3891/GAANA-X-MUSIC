@@ -2,7 +2,7 @@ from Ganaxmusic.core.bot import DAXX
 from Ganaxmusic.core.dir import dirr
 from Ganaxmusic.core.git import git
 from Ganaxmusic.core.userbot import Userbot
-from SACHINxSANATANIxMUSIC.misc import dbb, heroku
+from Ganaxmusic.misc import dbb, heroku
 
 from SafoneAPI import SafoneAPI
 from .logging import LOGGER
