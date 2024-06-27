@@ -2,8 +2,8 @@ import time
 
 import psutil
 
-from SACHINxSANATANIxMUSIC.misc import _boot_
-from SACHINxSANATANIxMUSIC.utils.formatters import get_readable_time
+from Ganaxmusic.misc import _boot_
+from Ganaxmusic.utils.formatters import get_readable_time
 
 
 async def bot_sys_stats():
