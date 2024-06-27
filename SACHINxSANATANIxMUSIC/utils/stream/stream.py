@@ -5,15 +5,15 @@ from typing import Union
 from pyrogram.types import InlineKeyboardMarkup
 
 import config
-from SACHINxSANATANIxMUSIC import Carbon, YouTube, app
-from SACHINxSANATANIxMUSIC.core.call import DAXX
-from SACHINxSANATANIxMUSIC.misc import db
-from SACHINxSANATANIxMUSIC.utils.database import add_active_video_chat, is_active_chat
-from SACHINxSANATANIxMUSIC.utils.exceptions import AssistantErr
-from SACHINxSANATANIxMUSIC.utils.inline import aq_markup, close_markup, stream_markup
-from SACHINxSANATANIxMUSIC.utils.pastebin import DAXXBin
-from SACHINxSANATANIxMUSIC.utils.stream.queue import put_queue, put_queue_index
-from SACHINxSANATANIxMUSIC.utils.thumbnails import get_thumb
+from Ganaxmusic import Carbon, YouTube, app
+from Ganaxmusic.core.call import DAXX
+from Ganaxmusic.misc import db
+from Ganaxmusic.utils.database import add_active_video_chat, is_active_chat
+from Ganaxmusic.utils.exceptions import AssistantErr
+from Ganaxmusic.utils.inline import aq_markup, close_markup, stream_markup
+from Ganaxmusic.utils.pastebin import DAXXBin
+from Ganaxmusic.utils.stream.queue import put_queue, put_queue_index
+from Ganaxmusic.utils.thumbnails import get_thumb
 
 
 async def stream(
