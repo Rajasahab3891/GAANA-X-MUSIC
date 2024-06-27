@@ -1,7 +1,7 @@
 from pyrogram.enums import ParseMode
 
-from SACHINxSANATANIxMUSIC import app
-from SACHINxSANATANIxMUSIC.utils.database import is_on_off
+from Ganaxmusic import app
+from Ganaxmusic.utils.database import is_on_off
 from config import LOGGER_ID
 
 
