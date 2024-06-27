@@ -1,8 +1,8 @@
 import asyncio
 from typing import Union
 
-from SACHINxSANATANIxMUSIC.misc import db
-from SACHINxSANATANIxMUSIC.utils.formatters import check_duration, seconds_to_min
+from Ganaxmusic.misc import db
+from Ganaxmusic.utils.formatters import check_duration, seconds_to_min
 from config import autoclean, time_to_seconds
 
 
