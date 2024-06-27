@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "ganaxmusicbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Ganaxmusic")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "aayanokozi")
+ASSUSERNAME = getenv("ASSUSERNAME" , "King")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002142625575))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002128807618))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5959548791))
+OWNER_ID = int(getenv("OWNER_ID", 6655939309))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/cfbdee8103102bcb2e5da.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/57f2c6ffae86c4353e58c.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/00360393a15daf7fc4e9d.jpg"
