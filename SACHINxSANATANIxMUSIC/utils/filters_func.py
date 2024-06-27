@@ -1,7 +1,7 @@
 from enum import Enum, auto
-from SACHINxSANATANIxMUSIC import app
+from Ganaxmusic import app
 from pyrogram.types import InlineKeyboardMarkup, Message
-from SACHINxSANATANIxMUSIC.utils.msg_types import button_markdown_parser
+from Ganaxmusic.utils.msg_types import button_markdown_parser
 from SACHINxSANATANIxMUSIC.utils.notes_func import NoteFillings
 from emojis import decode
 from pyrogram.types import Message
