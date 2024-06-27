@@ -9,9 +9,9 @@ from pyrogram.errors import (
 )
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from SACHINxSANATANIxMUSIC import YouTube, app
-from SACHINxSANATANIxMUSIC.misc import SUDOERS
-from SACHINxSANATANIxMUSIC.utils.database import (
+from Ganaxmusic import YouTube, app
+from Ganaxmusic.misc import SUDOERS
+from Ganaxmusic.utils.database import (
     get_assistant,
     get_cmode,
     get_lang,
@@ -20,7 +20,7 @@ from SACHINxSANATANIxMUSIC.utils.database import (
     is_active_chat,
     is_maintenance,
 )
-from SACHINxSANATANIxMUSIC.utils.inline import botplaylist_markup
+from Ganaxmusic.utils.inline import botplaylist_markup
 from config import PLAYLIST_IMG_URL, SUPPORT_CHAT, adminlist
 from strings import get_string
 
