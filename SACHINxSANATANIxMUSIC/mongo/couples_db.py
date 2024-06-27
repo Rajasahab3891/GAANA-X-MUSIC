@@ -1,4 +1,4 @@
-from SACHINxSANATANIxMUSIC.utils.mongo import db
+from Ganaxmusic.mongo import db
 
 coupledb = db.couple
 
