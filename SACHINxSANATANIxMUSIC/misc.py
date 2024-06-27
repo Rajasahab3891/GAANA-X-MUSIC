@@ -5,7 +5,7 @@ import heroku3
 from pyrogram import filters
 
 import config
-from SACHINxSANATANIxMUSIC.core.mongo import mongodb
+from Ganaxmusic.core.mongo import mongodb
 
 from .logging import LOGGER
 
