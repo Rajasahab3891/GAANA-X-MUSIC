@@ -1,5 +1,5 @@
-from SACHINxSANATANIxMUSIC.misc import SUDOERS
-from SACHINxSANATANIxMUSIC.utils.database import get_lang, is_maintenance
+from Ganaxmusic.misc import SUDOERS
+from Ganaxmusic.utils.database import get_lang, is_maintenance
 from strings import get_string
 
 
